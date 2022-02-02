@@ -1,6 +1,6 @@
   
 .body{
-background: url("/js file/ground.png");
+background: url("ground.png");
 min-height:100vh;
 background-size: 100vw 100vh;
 background-repeat: no-repeat;
